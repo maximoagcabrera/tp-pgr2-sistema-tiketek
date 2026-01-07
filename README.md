@@ -1,5 +1,3 @@
-## Aquí tienes el contenido del archivo README.md en texto plano, sin negritas, listo para copiar:
-
 ## Sistema de Gestion de Entradas - Proyecto Ticketek
 Este proyecto consiste en el modelado y desarrollo de un sistema de gestion de espectaculos y venta de entradas realizado en Java. 
 La aplicacion permite administrar el ciclo de vida completo de un evento, desde el registro de la sede hasta la gestion de entradas por parte del usuario.
